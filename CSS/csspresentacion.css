@@ -1,0 +1,79 @@
+
+body{
+	background-color: lightblue;
+}
+li{
+	list-style-type: square;
+}
+table{
+	border: 2px solid;
+	background-color: gray;
+	width: 100%;
+}
+tr {
+  border: 2px solid;
+	background-color:  lightgreen;
+}
+th{
+	border: 2px solid;
+	background-color:  lightgreen;
+}
+td{
+	border: 2px solid;
+	background-color:  lightgreen;
+}
+
+.imagen{
+	text-align: center;
+}
+.diseño1{
+	background-color: gray;
+}
+.diseño2{
+	background-color: khaki;
+}
+.diseño3{
+	width: 100px;
+}
+.titulo{
+	text-align: center;
+	font-family: georgia;
+	font-size: 50px;
+}
+.subtit{
+	text-align: center;
+	font-family: cursive;
+	font-size: 25px;
+}
+.cuerpo{
+	font-family: cursive;
+	font-size: 20px;
+	width: 100%
+}
+.btnizq{
+	text-align: left;
+	border: none;
+	background-color: yellow;
+	padding: 14px 28px;
+	font-size: 16px;
+	cursor: pointer;
+	display: inline-block;
+}	
+.btncent{
+	text-align: center;
+	border: none;
+	background-color: yellow;
+	padding: 14px 28px;
+	font-size: 16px;
+	cursor: pointer;
+	display: inline-block;
+}
+.btnder{
+	text-align: right;
+	border: none;
+	background-color: yellow;
+	padding: 14px 28px;
+	font-size: 16px;
+	cursor: pointer;
+	display: inline-block;
+}
